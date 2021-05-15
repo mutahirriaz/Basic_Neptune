@@ -1,0 +1,19 @@
+{
+  "name": "lambda1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/async": "^3.2.6",
+    "@types/aws-lambda": "^8.10.76",
+    "@types/gremlin": "^3.4.6",
+    "async": "^3.2.0",
+    "aws-lambda": "^1.0.6",
+    "gremlin": "^3.4.10"
+  }
+}
